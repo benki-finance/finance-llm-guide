@@ -1,10 +1,12 @@
-<h1 align="center">A Survey of Large Language Models in Finance (FinLLMs)</h1>
+<h1 align="center">FinBench Arena: An Independent Benchmarking Framework for Applied Financial Intelligence</h1>
 
 <p align="center">
 	<img src="./img/1_timeline.png" alt="FinLLMs" style="max-width: 100%;">	     
 </p>
 
-A curated list of resources of LLMs in Finance (FinLLMs) including their history, techniques, evaluation, and opportunities and challenges. It's based on our survey paper: [A Survey of Large Language Models in Finance (FinLLMs)](https://arxiv.org/abs/2402.02315). This survey will be actively updated including further evaluation of advanced Financial NLP tasks, a collection of financial datasets, and sharing FinLLM use-cases. Please stay tuned!🔥
+Database and background research forked from [A Survey of Large Language Models in Finance (FinLLMs)](https://arxiv.org/abs/2402.02315)
+
+Our draft: [Working Paper](https://docs.google.com/document/d/1DEpVxhWFx9M7rNttAtEmi6x93mmPPHZlP9KREzy8dG8/edit?tab=t.0). Seeking more datasets.
 
 
 ## Table of Contents
@@ -144,7 +146,8 @@ Evaluation summary of representative models across 6 financial NLP tasks
 | Market Forecasting (MF) | **StockEmotions, EDT, MAEC, MONOPOLY** |refer to SA, ED, MM tasks |   |  |  |
 
 ## Benchmarking
-- [FINOS] Open FinLLM Leaderboard ([https://aclanthology.org/venues/fnp/](https://huggingface.co/blog/leaderboard-finbench))
+- [FINOS] Open FinLLM Leaderboard [HuggingFace](https://huggingface.co/blog/leaderboard-finbench)
+- [BENKI] FinBenchArena [Twitter](https://x.com/abrarfrahman/status/1858898357919642106), [Draft](https://docs.google.com/document/d/1DEpVxhWFx9M7rNttAtEmi6x93mmPPHZlP9KREzy8dG8/edit?tab=t.0#heading=h.sb43rot108th), [GitHub](https://github.com/benki-finance/finbench-arena)
 
 ## Other Useful Resources
 We include several workshops and programs for financial NLP. The link directs to the most recent workshop website.
