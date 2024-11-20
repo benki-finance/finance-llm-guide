@@ -143,7 +143,8 @@ Evaluation summary of representative models across 6 financial NLP tasks
 |   | **MultiFin** | MultiFin: A Dataset for Multilingual Financial NLP | EACL Findings 2023|[Paper](https://aclanthology.org/2023.findings-eacl.66/) | [Github](https://github.com/RasmusKaer/MultiFin)|
 | Market Forecasting (MF) | **StockEmotions, EDT, MAEC, MONOPOLY** |refer to SA, ED, MM tasks |   |  |  |
 
-
+## Benchmarking
+- [FINOS] Open FinLLM Leaderboard ([https://aclanthology.org/venues/fnp/](https://huggingface.co/blog/leaderboard-finbench))
 
 ## Other Useful Resources
 We include several workshops and programs for financial NLP. The link directs to the most recent workshop website.
